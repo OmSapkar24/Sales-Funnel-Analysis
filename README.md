@@ -57,3 +57,10 @@ The notebook includes the following key analyses and visualizations:
 1. Install the required libraries:
 
    pip install pandas numpy matplotlib seaborn
+
+Load the notebook in Jupyter Notebook or JupyterLab.
+Execute the cells step by step to:
+Load the dataset.
+Perform exploratory data analysis.
+Visualize the data.
+Save insights and reports.
